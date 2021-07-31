@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="/Screenshot.png" width="600" title="hover text"> <br>
-  <img src="/Screenshot2.png" width="350" alt="accessibility text">
-</p>
+
+<img src="/Screenshot.png" width="600" title="hover text"> <br>
+<img src="/Screenshot2.png" width="600" alt="accessibility text">
+
 <p> This is very basic task based project, Created on ReactJS, using Material UI Library <p>
   <ul> Steps to Run the App
     <li> Clone / Download Project </li>
