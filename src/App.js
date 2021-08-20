@@ -5,7 +5,6 @@ import Menu from './Components/Menu'
 import Checkout from './Components/Checkout'
 import {BrowserRouter, Switch, Route} from 'react-router-dom'  
 
-
 function App() {
   return (
     <>
